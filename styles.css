@@ -42,8 +42,10 @@ body {
 }
   
 .image-container {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  height: 100vh;
+  margin: auto;
+  min-width: 100px;
+  width: 300px;
+  border: 5px solid gray;
+  border-radius: 5px;
+  padding: 10px 20px;
 }
