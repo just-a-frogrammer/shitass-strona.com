@@ -15,3 +15,11 @@ body {
   border: 5px solid gray;
   margin: 0;
 }
+
+.stopka-strony {
+  bottom: 0;
+  width: 100%;
+  background-color: #f1f1f1;
+  text-align: center;
+  padding: 10px;
+}
