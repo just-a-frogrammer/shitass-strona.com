@@ -1,13 +1,19 @@
-Better appearance
-->Background
-    ->Later add separate backgrounds to each subsite
-->Styled divs
-->Text formatting
+# To do list
+List of elements that have to be polished or added in the future
 
-Sub sites
-->Fix divs on photos page
 
-Maybe start doing backend?
-->setup basic flask app
+### Better appearance
+1. Separate backgrounds to each subsite
+2. Styled divs
+3. Text formatting
 
-Put on a server some day
+### Sub sites
+1. Fix divs on photos page
+2. Accualy design sub sites
+
+### Maybe start doing backend?
+1. Setup basic flask app
+
+### Put on a server some day
+1. Prepare the container
+2. Add tunnel in cloudflare
