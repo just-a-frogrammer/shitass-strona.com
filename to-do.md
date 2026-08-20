@@ -10,6 +10,7 @@ List of elements that have to be polished or added in the future
 ### Sub sites
 1. Fix divs on photos page
 2. Accualy design sub sites
+3. being able to leave a comment on main site (only logged in users?)
 
 ### Maybe start doing backend?
 1. Setup basic flask app
