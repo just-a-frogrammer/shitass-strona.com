@@ -10,6 +10,10 @@ def index():
 def hall_of_fame():
     return send_from_directory('subsites', 'hall_of_fame.html')
 
+@app.route('/subsites/login.html', methods=['GET', 'POST'])#this is not the file path, this is the url path, displayed in the browser, the file path is in the send_from_directory function
+def login():
+    return send_from_directory('subsites', 'login.html')
+
 @app.route('/subsites/photos.html')#this is not the file path, this is the url path, displayed in the browser, the file path is in the send_from_directory function
 def photos():
     return send_from_directory('subsites', 'photos.html')
