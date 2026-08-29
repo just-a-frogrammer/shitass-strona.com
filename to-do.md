@@ -13,7 +13,7 @@ List of elements that have to be polished or added in the future
 3. Implement comment section (only logged in users?)
 
 ### Maybe start doing backend?
-1. Setup basic flask app
+1. Improve flask implementation
 
 ### Put on a server some day
 1. Prepare the container
