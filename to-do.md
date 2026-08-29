@@ -20,4 +20,3 @@ List of elements that have to be polished or added in the future
 2. Add tunnel in cloudflare
 
 ### Additional
-1. Drop a pre-release version of the website
