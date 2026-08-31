@@ -28,7 +28,7 @@ body {
 .secondary-background {
   width: 66%;
   position: fixed;
-  color: rgb(122, 5, 168);
+  background-color: rgb(122, 5, 168);
   border-radius: 10px;
   border-color: rgb(211, 172, 45)
 
