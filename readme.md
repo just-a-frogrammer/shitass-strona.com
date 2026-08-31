@@ -69,7 +69,7 @@ flask run
 
 Don't know, dont care... I use Linux
 Just kidding, instructions for Windows machines coming soon
-
+(install linux instead, windows is just a ton of spyware and has ai filled literally everywhere)
 
 <br>
 <br>
