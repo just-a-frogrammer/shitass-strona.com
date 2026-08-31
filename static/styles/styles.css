@@ -25,14 +25,19 @@ body {
   margin: 0;
 }
 
-.secondary-background {
+.papyrus {
   width: 66%;
-  position: fixed;
-  background-color: rgb(122, 5, 168);
-  border-radius: 10px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: -22px;
+  margin-bottom: -20px;
+  background-color: rgb(71, 3, 116);
+  border: 4px;
   border-color: rgb(211, 172, 45)
-
 }
+
+/* drugi div będący pustą obramówką kawałek wewnątrz  border-color: rgb(211, 172, 45) */
+/* aight chb zmiana planów tho unsure*/
 
 .web-footer {
   bottom: 0%;
