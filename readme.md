@@ -1,4 +1,4 @@
-# Lepsza strona internetowa 9 LO
+# Lepsza strona internetowa IX LO
 
 <br>
 
@@ -9,7 +9,7 @@ Jesteśmy uczniami 9 LO w Lublinie na profilu Matematyczno-Fizyczno-Informatyczn
 
 
 ### Co robimy?
-Jak nagłówek sugeruje tworzymy lepszą stronę dla naszej szkoły czyli 9 LO w lublinie.
+Jak nagłówek sugeruje tworzymy lepszą stronę dla naszej szkoły czyli IX LO w lublinie.
 
 <br>
 
