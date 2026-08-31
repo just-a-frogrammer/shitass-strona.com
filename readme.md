@@ -28,7 +28,7 @@ As the title suggests we are creating enchanced website for our school.
 <br>
 
 
-# Jak uruchomić stronę lokalnie (Linux)
+# How to run locally (Linux)
 
 <br>
 
@@ -63,9 +63,20 @@ flask run
 <br>
 <br>
 
-# Jak uruchomić stronę lokalnie (Windows)
+# How to run locally (Windows)
 
 <br>
 
 Don't know, dont care... I use Linux
-Just kidding, tutorial for Windows machines coming soon
+Just kidding, instructions for Windows machines coming soon
+
+
+<br>
+<br>
+
+
+# How to run locally (MacOS)
+
+<br>
+
+No instructions for MacOS planned at the time being
