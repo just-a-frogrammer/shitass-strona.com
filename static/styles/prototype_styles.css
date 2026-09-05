@@ -1,0 +1,8 @@
+.main-sheet {
+  background-color: #deeeff;
+  width: 70%;
+  height: 1000px;
+  margin:auto;
+  border-style: double;
+  border-color: rgb(58, 58, 58);
+}
